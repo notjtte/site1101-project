@@ -249,3 +249,19 @@ body {
     }
 }
 
+.project-card {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    border: 1px solid #eee;
+    border-radius: 12px;
+}
+
+.project-img {
+    width: 100%;         
+    max-width: 500px;     
+    height: auto;          
+    display: block;      
+    margin: 1.5rem 0;     
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}
